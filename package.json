@@ -4,6 +4,7 @@
   "author": "Garen J. Torikian",
   "version": "0.0.1",
   "main": "lib/main.js",
+  "bin": "bin/arv.js",
   "preferGlobal": true,
   "repository": "git://github.com/gjtorikian/atom-readme-validator.git",
   "homepage": "https://github.com/gjtorikian/atom-readme-validator",

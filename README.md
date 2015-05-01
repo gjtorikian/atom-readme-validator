@@ -1,0 +1,1 @@
+# atom-readme-validator

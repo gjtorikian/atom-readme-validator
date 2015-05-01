@@ -2,7 +2,7 @@
   "name": "atom-readme-validator",
   "description": "Validate your Atom package README",
   "author": "Garen J. Torikian",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/main.js",
   "bin": "bin/arv.js",
   "preferGlobal": true,
